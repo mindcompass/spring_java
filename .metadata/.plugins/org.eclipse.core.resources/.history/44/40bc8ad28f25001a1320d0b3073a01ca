@@ -1,0 +1,5 @@
+package com.mindcompass.basic.model;
+
+public class Member {
+
+}
